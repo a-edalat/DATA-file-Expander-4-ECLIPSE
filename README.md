@@ -1,6 +1,6 @@
 # DATA file Expander for ECLIPSE
 
-If you have a DATA file with a lot of include files in ECLIPSE and you wish to have a clean file with all the DATA in a single file, this is the tool for you.
+If you have a DATA file with a lot of include files in ECLIPSE(Numerical Simulator by Schlumberger) and you wish to have a clean file with all the DATA in a single file, this is the tool for you.
 
 I found it easier for me when I work in a new project to be able to see the whole DATA file as once, rather than dealing with all the different include files.
 
