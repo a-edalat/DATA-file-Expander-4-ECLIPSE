@@ -6,10 +6,10 @@ I found it easier for me when I work in a new project to be able to see the whol
 
 Current version, you can select to have COORD and ZCORD information to be included in the final file or not, as they are generally little value to my purpose and they make working with the final file difficult.
 
-Please share with me your comments, on both how to improve my code and also what other possible optionality you wish to see in this expander.
+Please share with me your comments, on both how to improve my code and also what other possible features you wish to see in this expander.
 
 Note:
-If you are new to Python and not sure how to use this file, visit 'https://www.anaconda.com/distribution/' and download the latest version of Anaconda for your device, in a rare case that you need Admin access contact your IT.
+If you are new to Python and not sure how to open this file, visit 'https://www.anaconda.com/distribution/' and download the latest version of Anaconda for your device, in a rare case that you need Admin access contact your IT.
 
 Thanks,
 Amin
